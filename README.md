@@ -25,8 +25,8 @@ A real-time dashboard that correlates music trends with traffic data, featuring 
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd music-traffic-dashboard
+   git clone https://github.com/kumudkode/AIforBharat.git
+   cd AIforBharat
    ```
 
 2. **Install dependencies**
@@ -56,6 +56,35 @@ A real-time dashboard that correlates music trends with traffic data, featuring 
 6. **Open your browser**
    - Navigate to `http://localhost:5173`
    - Enjoy the Music × Traffic Dashboard!
+   
+ ## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](assets/image/image1.png)
+![Dashboard Main View](assets/image/image2.png)
+![Application Interface](assets/image/image.png)
+![Dashboard Layout](assets/image/image-1.png)
+
+### Traffic Analytics
+![Traffic Data](assets/image/image-2.png)
+![Traffic Visualization](assets/image/image-4.png)
+![Traffic Patterns](assets/image/image-5.png)
+
+### Trending Music Tracks
+![Trending Tracks](assets/image/image-3.png)
+![Music Recommendations](assets/image/image-6.png)
+
+### Live Data Updates
+![Live Update System](assets/image/image-7.png)
+
+### Theme Support
+![Light Mode](assets/image/image-8.png)
+![Dark Mode](assets/image/image-9.png)
+
+### Music Player Controls
+![Music Controller](assets/image/image-10.png)
+![Player Interface](assets/image/image-11.png)
+
 
 ## 🔧 Configuration
 
@@ -139,6 +168,12 @@ The dashboard is fully responsive and works on:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## �‍💻k Author
+
+**Kumud Kode**
+- GitHub: [@kumudkode](https://github.com/kumudkode)
+- Sponsor: [Support my work](https://github.com/sponsors/kumudkode) ❤️
+
 ## 🙏 Acknowledgments
 
 - Last.fm for providing the music API
@@ -162,4 +197,6 @@ If you encounter any issues:
 
 ---
 
-Made with ❤️ for music and traffic enthusiasts!
+Made with ❤️ by [Kumud Kode](https://github.com/kumudkode) for music and traffic enthusiasts!
+
+💖 **Like this project?** [Consider sponsoring me](https://github.com/sponsors/kumudkode) to support more open-source work!
