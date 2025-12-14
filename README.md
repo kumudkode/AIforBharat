@@ -168,7 +168,7 @@ The dashboard is fully responsive and works on:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## �‍💻k Author
+## 👨‍💻 Author
 
 **Kumud Kode**
 - GitHub: [@kumudkode](https://github.com/kumudkode)
